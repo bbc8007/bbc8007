@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>index</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/index/styles.css" type="text/css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u0" class="ax_default image">
+        <img id="u0_img" class="img " src="images/index/u0.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2" class="ax_default image">
+        <img id="u2_img" class="img " src="images/index/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u4" class="ax_default image">
+        <img id="u4_img" class="img " src="images/index/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6" class="ax_default _二级标题">
+        <div id="u6_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u7" class="text">
+          <p><span>Remote&nbsp; Mouse</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u8" class="ax_default _文本段落">
+        <div id="u8_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u9" class="text">
+          <p><span>电脑遥控尽在掌握</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u10" class="ax_default _二级标题">
+        <div id="u10_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u11" class="text">
+          <p><span>立即下载</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u12" class="ax_default _二级标题">
+        <div id="u12_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u13" class="text">
+          <p><span>将你的手机或平板电脑变</span></p><p><span>成一套好用的无线遥控</span></p><p><span>器，远程控制你的电脑。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14" class="ax_default _二级标题">
+        <div id="u14_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span>分享到：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u16" class="ax_default image">
+        <img id="u16_img" class="img " src="images/index/u16.png"/>
+        <!-- Unnamed () -->
+        <div id="u17" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u18" class="ax_default image">
+        <img id="u18_img" class="img " src="images/index/u18.png"/>
+        <!-- Unnamed () -->
+        <div id="u19" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u20" class="ax_default image">
+        <img id="u20_img" class="img " src="images/index/u20.png"/>
+        <!-- Unnamed () -->
+        <div id="u21" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u22" class="ax_default image">
+        <img id="u22_img" class="img " src="images/index/u22.png"/>
+        <!-- Unnamed () -->
+        <div id="u23" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u24" class="ax_default image">
+        <img id="u24_img" class="img " src="images/index/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u25" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u26" class="ax_default _二级标题">
+        <div id="u26_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u27" class="text">
+          <p><span>功能特色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u28" class="ax_default _二级标题 ax_default_hidden" style="display:none; visibility: hidden">
+        <div id="u28_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u29" class="text">
+          <p><span>功能特色</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u30" class="ax_default _二级标题">
+        <div id="u30_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u31" class="text">
+          <p><span>如何开始&nbsp;&nbsp; </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u32" class="ax_default _二级标题">
+        <div id="u32_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u33" class="text">
+          <p><span>常见问题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u34" class="ax_default _二级标题">
+        <div id="u34_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u35" class="text">
+          <p><span>加入团队</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u36" class="ax_default box_2">
+        <div id="u36_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u37" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u38" class="ax_default image">
+        <img id="u38_img" class="img " src="images/index/u38.png"/>
+        <!-- Unnamed () -->
+        <div id="u39" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u40" class="ax_default _二级标题">
+        <div id="u40_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u41" class="text">
+          <p><span>完美模拟的鼠标、键盘</span></p><p><span>和触控板</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u42" class="ax_default image">
+        <img id="u42_img" class="img " src="images/index/u42.png"/>
+        <!-- Unnamed () -->
+        <div id="u43" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u44" class="ax_default _二级标题">
+        <div id="u44_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u45" class="text">
+          <p><span>将最常见的三件遥控设备完美合一，熟悉</span></p><p><span>的滑动和点击，更加智能的多指触控，远</span></p><p><span>程操控电脑，一切都是如此简单。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46" class="ax_default box_2">
+        <div id="u46_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u47" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u48" class="ax_default image">
+        <img id="u48_img" class="img " src="images/index/u48.png"/>
+        <!-- Unnamed () -->
+        <div id="u49" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u50" class="ax_default _一级标题">
+        <div id="u50_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u51" class="text">
+          <p><span>更易用的遥控面板</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u52" class="ax_default _二级标题">
+        <div id="u52_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u53" class="text">
+          <p><span>让你能用最便捷的方式进行各项操作，无论是窝在</span></p><p><span>床上看视频，亦或是在客厅听音乐，甚至是在会议</span></p><p><span>厅里作演讲展示，Remote Mouse 都可以满足你</span></p><p><span>的需求。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u54" class="ax_default box_2">
+        <div id="u54_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u55" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u56" class="ax_default image">
+        <img id="u56_img" class="img " src="images/index/u56.png"/>
+        <!-- Unnamed () -->
+        <div id="u57" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u58" class="ax_default _二级标题">
+        <div id="u58_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u59" class="text">
+          <p><span>无需同步就能直接浏览和使用电脑中的图片。也</span></p><p><span>可以秒速上传你的手机照片到电脑，备份和珍藏</span></p><p><span>心爱的照片，只需几秒</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u60" class="ax_default box_2">
+        <div id="u60_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u61" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u62" class="ax_default box_2">
+        <div id="u62_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u63" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u64" class="ax_default image">
+        <img id="u64_img" class="img " src="images/index/u64.png"/>
+        <!-- Unnamed () -->
+        <div id="u65" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u66" class="ax_default _一级标题">
+        <div id="u66_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u67" class="text">
+          <p><span>其他贴心功能</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u68" class="ax_default image">
+        <img id="u68_img" class="img " src="images/index/u68.png"/>
+        <!-- Unnamed () -->
+        <div id="u69" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u70" class="ax_default image">
+        <img id="u70_img" class="img " src="images/index/u70.png"/>
+        <!-- Unnamed () -->
+        <div id="u71" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u72" class="ax_default image">
+        <img id="u72_img" class="img " src="images/index/u72.png"/>
+        <!-- Unnamed () -->
+        <div id="u73" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u74" class="ax_default image">
+        <img id="u74_img" class="img " src="images/index/u0.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u75" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u76" class="ax_default box_3">
+        <div id="u76_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u77" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u78" class="ax_default _一级标题">
+        <div id="u78_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u79" class="text">
+          <p style="font-size:48px;"><span style="color:#009900;">远程图像传输</span><span style="font-size:36px;">（仅IOS）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u80" class="ax_default _二级标题">
+        <div id="u80_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u81" class="text">
+          <p><span>语音输入（仅IOS）</span></p><p><span>让嘴巴替你打字，记录和分享</span></p><p><span>想法从来如此快捷</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u82" class="ax_default _二级标题">
+        <div id="u82_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u83" class="text">
+          <p><span>挥动控制（仅IOS）</span></p><p><span>轻挥手机移动鼠标。更适合手持</span></p><p><span>使用状态，如Wiimote般有趣的</span></p><p><span>使用体验</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u84" class="ax_default _二级标题">
+        <div id="u84_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u85" class="text">
+          <p><span>远程关机</span></p><p><span>关机、重启、休眠和注销。看完</span></p><p><span>视频该休息了，只需多按一下</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u86" class="ax_default _一级标题">
+        <div id="u86_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u87" class="text">
+          <p><span>小伙伴们这样说</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u88" class="ax_default image">
+        <img id="u88_img" class="img " src="images/index/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u89" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u90" class="ax_default _一级标题">
+        <div id="u90_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u91" class="text">
+          <p><span>立刻下载</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u92" class="ax_default _一级标题">
+        <div id="u92_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u93" class="text">
+          <p><span>心动了吗？</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u94" class="ax_default image">
+        <img id="u94_img" class="img " src="images/index/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u95" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u96" class="ax_default image">
+        <img id="u96_img" class="img " src="images/index/u20.png"/>
+        <!-- Unnamed () -->
+        <div id="u97" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u98" class="ax_default image">
+        <img id="u98_img" class="img " src="images/index/u98.png"/>
+        <!-- Unnamed () -->
+        <div id="u99" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u100" class="ax_default image">
+        <img id="u100_img" class="img " src="images/index/u18.png"/>
+        <!-- Unnamed () -->
+        <div id="u101" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u102" class="ax_default _三级标题">
+        <div id="u102_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u103" class="text">
+          <p><span>客户支持</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u104" class="ax_default _三级标题">
+        <div id="u104_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u105" class="text">
+          <p><span>天使用户论坛</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u106" class="ax_default _三级标题">
+        <div id="u106_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u107" class="text">
+          <p><span>帮助我们翻译</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u108" class="ax_default _三级标题">
+        <div id="u108_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u109" class="text">
+          <p><span>联络我们</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u110" class="ax_default _三级标题">
+        <div id="u110_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u111" class="text">
+          <p><span>English</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u112" class="ax_default _三级标题">
+        <div id="u112_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u113" class="text">
+          <p><span>Espanol</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u114" class="ax_default _三级标题">
+        <div id="u114_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u115" class="text">
+          <p><span>Italiano</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u116" class="ax_default _三级标题">
+        <div id="u116_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u117" class="text">
+          <p><span>简体中文</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u118" class="ax_default _三级标题">
+        <div id="u118_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u119" class="text">
+          <p><span>繁体中文</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
